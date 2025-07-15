@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">MiPlata</string>
+    <string name="lbl_ingreso">Ingresos</string>
+    <string name="lbl_gastos">Gastos</string>
+    <string name="lbl_logo">LOGO</string>
+    <string name="lbl_nuevo_registro">Nuevo Registro</string>
+    <string name="lbl_actualiza_registro">Actualiza Registro</string>
+    <string name="lbl_nombre">Nombre *</string>
+    <string name="lbl_nota">Nota (opcional)</string>
+    <string name="lbl_default_monto">0.00 *</string>
+    <string name="lbl_guardar">Guardar</string>
+    <string name="lbl_date_format">dd/mm/yyyy *</string>
+    <string name="lbl_balance_general">Balance \nGastos/Ingresos fijos</string>
+    <string name="lbl_fecha_default">Enero 2022</string>
+    <string name="content_description">.</string>
+    <string name="lbl_default_item_title">Hipoteca</string>
+    <string name="lbl_default_item_nota">Descuento mensual del infonavit</string>
+    <string name="lbl_default_item_fecha">15/01/2022</string>
+    <string name="lbl_default_item_monto">$2,500.00</string>
+    <string name="lbl_recordatorio_title">¿Quieres que te recordemos cuando realizar tu pago?</string>
+    <string name="lbl_recordatorio_pago">Selecciona el dia que quieras recibir la notificacion:</string>
+    <string name="lbl_recordatorio_note">0 = no recordarme</string>
+    <string name="lbl_gasto_mes">Balance mensual</string>
+    <string name="lbl_check_text_fijo">Incluir ingresos y gastos fijos</string>
+
+    <string name="tv_ingresos">Ingresos</string>
+    <string name="tv_gastos">Gastos</string>
+    <string name="tv_ingreso_neto">Ingreso Neto</string>
+    <string name="tv_monto_default">$5,000.00</string>
+
+    <string name="fab_menu_add_op_rec">Operación mensual</string>
+    <string name="fab_menu_add_op_day">Operación diaria</string>
+    <string name="title_activity_menu">MenuActivity</string>
+
+    <string name="menu_balance_mensual">Balance mensual</string>
+    <string name="menu_balance_general">Gastos/Ingresos fijos</string>
+    <string name="menu_year_report">Reporte anual</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="lbl_subheader_menu">Organiza tus finanzas.</string>
+    <string name="splash">MiPlata \n Administra tus finanzas.</string>
+    <string name="dialog_fechas_title">Seleccione las fechas que desea buscar.</string>
+    <string name="fecha_inicial">Fecha Inicial</string>
+    <string name="fecha_final">Fecha Final</string>
+    <string name="btn_buscar">Buscar</string>
+    <string name="btn_cancelar">Cancelar</string>
+    <string name="msg_fechaini_required">Indique la fecha inical.</string>
+    <string name="msg_fechas_required">Las fechas son requridas.</string>
+    <string name="categoria">categoria</string>
+    <string name="lbl_categorias">Categorias</string>
+
+    <string name="notify_title">Recordatorio de pago</string>
+    <string name="notify_content">Recuerda realizar tus pagos</string>
+    <string name="dialog_notify_title">¡ Recibe notificaciones !</string>
+    <string name="dialog_notify_desc">Activa las notificaciones para \nrecibir recordatorios de tus pagos recurrentes</string>
+    <string name="dialog_notify_desc2">No vuelvas a olvidar realizar tus pagos.</string>
+    <string name="dialog_notify_skip">Saltar</string>
+    <string name="dialog_notify_continue">Deacuerdo</string>
+    <string name="dialog_dayli_message">¡Hola!, recuerda registrar todos tus pagos del día, aquí estamos para ayudarte.</string>
+
+    <string name="enero">Ene</string>
+    <string name="febrero">Feb</string>
+    <string name="marzo">Mar</string>
+    <string name="abril">Abr</string>
+    <string name="mayo">May</string>
+    <string name="junio">Jun</string>
+    <string name="julio">Jul</string>
+    <string name="agosto">Ago</string>
+    <string name="septiembre">Sept</string>
+    <string name="octubre">Oct</string>
+    <string name="noviembre">Nov</string>
+    <string name="diciembre">Dic</string>
+
+    <string name="filtrar">Filtrar</string>
+    <string name="summary_day">Dia: %1s</string>
+
+    <string name="lbl_negative_balance">Saldo negativo : \n%1s</string>
+
+    //admob
+    <string name="id_app" translatable="false">ca-app-pub-2449148181464779~5726548361</string>
+    <string name="banner" translatable="false">ca-app-pub-2449148181464779/1241380584</string>
+    <string name="interesticial" translatable="false">ca-app-pub-2449148181464779/7995287355</string>
+    <string name="prueba" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="pruebaInteresticial" translatable="false">ca-app-pub-3940256099942544/1033173712</string>
+</resources>
