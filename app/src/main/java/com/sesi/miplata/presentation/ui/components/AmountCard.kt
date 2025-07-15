@@ -1,6 +1,7 @@
 package com.sesi.miplata.presentation.ui.components
 
 import androidx.compose.foundation.layout.fillMaxSize
+import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
 import androidx.compose.material3.ElevatedCard
 import androidx.compose.runtime.Composable
@@ -14,7 +15,7 @@ import com.sesi.miplata.R
 @Preview
 @Composable
 fun AmountCard() {
-    ConstraintLayout(modifier = Modifier.fillMaxSize()) {
+    ConstraintLayout(modifier = Modifier.fillMaxWidth()) {
         val middleGuideLine = createGuidelineFromStart(0.5f)
         val startGuideLine = createGuidelineFromStart(0.03f)
         val startNetGuideLine = createGuidelineFromStart(0.2f)
