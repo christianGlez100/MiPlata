@@ -10,7 +10,7 @@ import android.graphics.BitmapFactory
 import androidx.core.app.ActivityCompat
 import androidx.core.app.NotificationCompat
 import androidx.core.app.NotificationManagerCompat
-import com.sesi.miplata.R
+import com.sesi.miplata.v2.R
 
 class MiPlataNotification {
 

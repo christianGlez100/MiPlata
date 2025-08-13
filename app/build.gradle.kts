@@ -9,11 +9,11 @@ plugins {
 }
 
 android {
-    namespace = "com.sesi.miplata"
+    namespace = "com.sesi.miplata.v2"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.sesi.miplata"
+        applicationId = "com.sesi.miplata.v2"
         minSdk = 29
         targetSdk = 36
         versionCode = 1

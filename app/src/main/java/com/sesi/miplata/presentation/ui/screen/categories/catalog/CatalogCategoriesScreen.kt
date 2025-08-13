@@ -16,12 +16,12 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.constraintlayout.compose.ConstraintLayout
 import androidx.constraintlayout.compose.Dimension
-import com.sesi.miplata.R
+import com.sesi.miplata.v2.R
 import com.sesi.miplata.presentation.ui.components.CategoryItem
 
 @Preview
 @Composable
-fun CatalogCategories(){
+fun CatalogCategoriesScreen(){
     ConstraintLayout(modifier = Modifier.fillMaxSize().padding(top = 16.dp)) {
         val (list, titleIncome, titleExpense, expenseList, addButton) = createRefs()
         val middleLine = createGuidelineFromTop(0.5f)

@@ -1,14 +1,10 @@
 package com.sesi.miplata.domain.schedule
 
-import android.app.PendingIntent
 import android.content.Context
-import android.content.Intent
 import android.util.Log
 import androidx.hilt.work.HiltWorker
 import androidx.work.CoroutineWorker
 import androidx.work.WorkerParameters
-import com.sesi.miplata.R
-import com.sesi.miplata.presentation.ui.notification.MiPlataNotification
 import dagger.assisted.Assisted
 import dagger.assisted.AssistedInject
 
